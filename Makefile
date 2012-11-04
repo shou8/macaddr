@@ -35,7 +35,7 @@ $(TARGET3): $(OBJS3)
 		$(CC) $(CFLAGS) $(LDFLAGS) -o $(TARGET3) $(OBJS3) $(LDLIBS)
 
 install:
-		mv $(PWD)/$(TARGET3) $(PREFIX)
+		cp $(PWD)/$(TARGET3) $(PREFIX)
 
 clean:
 		@rm -f $(OBJS1) $(OBJS2) $(OBJS3)
