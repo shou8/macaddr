@@ -57,10 +57,22 @@ void write_macc(void){
     while(fgets(string, MAX_LEN, rfp) != NULL){
 
         char *chs = strchr(string, ' ');
-        char *che = strchr(chs, '\n');
+        if(chs != NULL)
+            *(chs++) = '\0';
+        else{
+            fprintf(stderr, "%s\n", string);
+            fprintf(stderr, "ERROR: Invalid Structure. (chs)\n");
+            exit(EXIT_FAILURE);
+        }
 
-        *(chs++) = '\0';
-        *che = '\0';
+        char *che = strchr(chs, '\n');
+        if(che != NULL)
+            *che = '\0';
+        else{
+            fprintf(stderr, "%s\n", string);
+            fprintf(stderr, "ERROR: Invalid Structure. (che)\n");
+            exit(EXIT_FAILURE);
+        }
 
         mac = macton(string);
         if(mac != premac){

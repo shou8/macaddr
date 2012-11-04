@@ -5,7 +5,7 @@ PREFIX=/opt/bin
 CFLAGS=-Wall -O2
 LDLIBS=
 
-OBJS1=macutil.o
+OBJS1=macutil.o genCode.o
 SRCS1=$(OBJS1:%.o=%.c)
 TARGET1=genCode
 
@@ -38,4 +38,4 @@ install:
 		mv $(PWD)/$(TARGET3) $(PREFIX)
 
 clean:
-		@rm -f $(OBJS2) $(OBJS3)
+		@rm -f $(OBJS1) $(OBJS2) $(OBJS3)

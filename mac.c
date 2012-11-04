@@ -2496,7 +2496,7 @@ void searchMac(unsigned long mac){
 		case 2517: printf("Signal Communication, Inc.\n"); break;
 		case 2518: printf("KNC One GmbH\n"); break;
 		case 2519: printf("DC Security Products\n"); break;
-		case 2520: printf("FÃÆÃÂ¤lt Communications AB\n"); break;
+		case 2520: printf("Fテδε津δづつ、lt Communications AB\n"); break;
 		case 2521: printf("Neoscale Systems, Inc\n"); break;
 		case 2522: printf("Control Module Inc.\n"); break;
 		case 2523: printf("eSpace\n"); break;
@@ -2888,7 +2888,7 @@ void searchMac(unsigned long mac){
 		case 2910: printf("Audio Engineering Society Inc.\n"); break;
 		case 2911: printf("Cisco Systems\n"); break;
 		case 2912: printf("Cisco Systems\n"); break;
-		case 2913: printf("Friedrich LÃÆÃÂtze GmbH &Co.\n"); break;
+		case 2913: printf("Friedrich Lテδε津δづつシtze GmbH &Co.\n"); break;
 		case 2914: printf("Ingenieurbuero fuer Elektronikdesign Ingo Mohnen\n"); break;
 		case 2915: printf("Kaleidescape\n"); break;
 		case 2916: printf("Kieback & Peter GmbH & Co KG\n"); break;
@@ -2936,7 +2936,7 @@ void searchMac(unsigned long mac){
 		case 2958: printf("Ascent Corporation\n"); break;
 		case 2959: printf("AKITA ELECTRONICS SYSTEMS CO.,LTD.\n"); break;
 		case 2960: printf("Adva Optical Networking Inc.\n"); break;
-		case 2961: printf("Aglaia Gesellschaft fÃÆÃÂr Bildverarbeitung und Kommunikation m\n"); break;
+		case 2961: printf("Aglaia Gesellschaft fテδε津δづつシr Bildverarbeitung und Kommunikation m\n"); break;
 		case 2962: printf("Ascom Danmark A/S\n"); break;
 		case 2963: printf("Ritter Elektronik\n"); break;
 		case 2964: printf("Digital Monitoring Products, Inc.\n"); break;
@@ -3289,7 +3289,7 @@ void searchMac(unsigned long mac){
 		case 3311: printf("Open Networks Engineering Ltd\n"); break;
 		case 3312: printf("M & N GmbH\n"); break;
 		case 3313: printf("Intel Corporation\n"); break;
-		case 3314: printf("GAMESA EÃÆÃ¢â¬ÅLICA\n"); break;
+		case 3314: printf("GAMESA Eテδε津δ「テ「ツつャテ鏑ICA\n"); break;
 		case 3315: printf("CALL IMAGE SA\n"); break;
 		case 3316: printf("AKATSUKI ELECTRIC MFG.CO.,LTD.\n"); break;
 		case 3317: printf("InfoExpress\n"); break;
@@ -3489,7 +3489,7 @@ void searchMac(unsigned long mac){
 		case 3511: printf("SANKO ELECTRIC CO,.LTD\n"); break;
 		case 3512: printf("SCHILLER AG\n"); break;
 		case 3513: printf("PC Engines GmbH\n"); break;
-		case 3514: printf("OcÃÆÃÂ© Document Technologies GmbH\n"); break;
+		case 3514: printf("Ocテδε津δづつゥ Document Technologies GmbH\n"); break;
 		case 3515: printf("Nippon Dentsu Co.,Ltd.\n"); break;
 		case 3516: printf("Cisco Systems\n"); break;
 		case 3517: printf("Cisco Systems\n"); break;
@@ -3524,7 +3524,7 @@ void searchMac(unsigned long mac){
 		case 3546: printf("ALLIED TELESIS K.K.\n"); break;
 		case 3547: printf("AIRWAVE TECHNOLOGIES INC.\n"); break;
 		case 3548: printf("VAC\n"); break;
-		case 3549: printf("PROFÃÆÃÂLO TELRA ELEKTRONÃÆÃÂK SANAYÃÆÃÂ VE TÃÆÃÂCARET A.ÃÆÃÂ.\n"); break;
+		case 3549: printf("PROFテδε津δづつ扠O TELRA ELEKTRONテδε津δづつ扛 SANAYテδε津δづつVE TÃÆÃÂCARET A.ÃÆÃÂ.\n"); break;
 		case 3550: printf("Joyteck Co., Ltd.\n"); break;
 		case 3551: printf("Japan Image & Network Inc.\n"); break;
 		case 3552: printf("ICPDAS Co.,LTD\n"); break;
@@ -11287,6 +11287,7 @@ void searchMac(unsigned long mac){
 		case 33021: printf("EXSCEED CORPRATION\n"); break;
 		case 33022: printf("AZURE TECHNOLOGIES, INC.\n"); break;
 		case 33023: printf("SOC. DE TELEINFORMATIQUE RTC\n"); break;
+		case 34917: printf("Apple\n"); break;
 		case 35856: printf("Black Box Corp.\n"); break;
 		case 35924: printf("ADB Broadband Italia\n"); break;
 		case 36090: printf("Inventec Corporation\n"); break;
@@ -12960,6 +12961,7 @@ void searchMac(unsigned long mac){
 		case 584564: printf("Humax\n"); break;
 		case 584685: printf("World Elite Technology Co.,LTD\n"); break;
 		case 585145: printf(" Hon Hai Precision Ind. Co.,Ltd.\n"); break;
+		case 586167: printf("Towerstream Corpration\n"); break;
 		case 586484: printf("Net One Partners Co.,Ltd.\n"); break;
 		case 587512: printf("GET Engineering\n"); break;
 		case 588512: printf("Fohhn Audio AG\n"); break;
@@ -13069,6 +13071,7 @@ void searchMac(unsigned long mac){
 		case 1066880: printf("HUAWEI TECHNOLOGIES CO.,LTD\n"); break;
 		case 1067185: printf("Beijing Duokan Technology Limited\n"); break;
 		case 1070794: printf("Peplink International Ltd.\n"); break;
+		case 1072319: printf("DuroByte Inc\n"); break;
 		case 1072969: printf("Cisco SPVTG\n"); break;
 		case 1073227: printf("Hewlett Packard\n"); break;
 		case 1073865: printf("Adatis GmbH & Co. KG\n"); break;
@@ -13204,11 +13207,13 @@ void searchMac(unsigned long mac){
 		case 1591512: printf("Fastback Networks\n"); break;
 		case 1592980: printf("MESSOA TECHNOLOGIES INC.\n"); break;
 		case 1593939: printf("Pixord Corporation\n"); break;
+		case 1594639: printf("Cisco SPVTG\n"); break;
 		case 1595699: printf("Cisco SPVTG\n"); break;
 		case 1599203: printf("Veros Systems, Inc.\n"); break;
 		case 1599295: printf("Hanover Displays Limited\n"); break;
 		case 1599313: printf("KOMEG Industrielle Messtechnik GmbH\n"); break;
 		case 1600921: printf("Adanis Inc.\n"); break;
+		case 1604243: printf("AMICCOM Electronics Corporation\n"); break;
 		case 1604737: printf("Valeo Vision Systems\n"); break;
 		case 1605838: printf("Barberry Solutions Ltd\n"); break;
 		case 1605877: printf("Alcatel-Lucent Shanghai Bell Co., Ltd\n"); break;
@@ -13263,6 +13268,7 @@ void searchMac(unsigned long mac){
 		case 1852819: printf("Texas Instruments\n"); break;
 		case 1854422: printf("AzureWave\n"); break;
 		case 1855925: printf("Techaya LTD\n"); break;
+		case 1856214: printf("FLAT DISPLAY TECHNOLOGY CORPORATION\n"); break;
 		case 1858110: printf("Samsung Eletronics Co., Ltd (Visual Display Divison)\n"); break;
 		case 1858155: printf("Philips Electronics Nederland BV\n"); break;
 		case 1858645: printf("PRIMA Cinema, Inc\n"); break;
@@ -13283,6 +13289,7 @@ void searchMac(unsigned long mac){
 		case 1868900: printf("FORMOSA WIRELESS COMMUNICATION CORP.\n"); break;
 		case 1871502: printf("DB Communication & Systems Co., ltd.\n"); break;
 		case 1871754: printf("Phase Motion Control SpA\n"); break;
+		case 1872249: printf("Integrated System Technologies Ltd\n"); break;
 		case 1873042: printf("RUAG Schweiz AG\n"); break;
 		case 1873245: printf("I-LAX ELECTRONICS INC.\n"); break;
 		case 1873311: printf("Veethree Electronics And Marine LLC\n"); break;
@@ -13347,6 +13354,7 @@ void searchMac(unsigned long mac){
 		case 2127055: printf("Shenzhen Voxtech Co.,Ltd\n"); break;
 		case 2127360: printf("Actiontec Electronics, Inc\n"); break;
 		case 2129039: printf("Quanta Microsystems,Inc.\n"); break;
+		case 2131340: printf("Assa\n"); break;
 		case 2132356: printf("COMPAL INFORMATION (KUNSHAN) CO., LTD\n"); break;
 		case 2134489: printf("I&#39;M SPA\n"); break;
 		case 2136997: printf("JIAXING GLEAD Electronics Co.,Ltd\n"); break;
@@ -13379,6 +13387,7 @@ void searchMac(unsigned long mac){
 		case 2162161: printf("3COM EUROPE LTD\n"); break;
 		case 2162381: printf("System In Frontier Inc.\n"); break;
 		case 2162395: printf("M2M Solution S.A.S.\n"); break;
+		case 2359751: printf("Cisco\n"); break;
 		case 2361623: printf("Devlin Electronics Limited\n"); break;
 		case 2362154: printf("Viettel Group\n"); break;
 		case 2362289: printf("KOSTAL Industrie Elektrik GmbH\n"); break;
@@ -13563,6 +13572,7 @@ void searchMac(unsigned long mac){
 		case 2940172: printf("Discovergy GmbH\n"); break;
 		case 2941608: printf("DeviceDesign\n"); break;
 		case 2941970: printf("SAGEMCOM SAS\n"); break;
+		case 2943089: printf("Alert Metalguard ApS\n"); break;
 		case 2944491: printf("Alpheus Digital Company Limited\n"); break;
 		case 2944550: printf("Petroleum Geo-Services\n"); break;
 		case 2946245: printf("Avaya Inc\n"); break;
@@ -13610,6 +13620,7 @@ void searchMac(unsigned long mac){
 		case 3190518: printf("Radio Mobile Access\n"); break;
 		case 3191318: printf("Hytec Geraetebau GmbH\n"); break;
 		case 3191714: printf("Shenzhen Heguang Measurement & Control Technology Co.,Ltd\n"); break;
+		case 3196970: printf("Wi-Next s.r.l.\n"); break;
 		case 3199831: printf("Logosol, Inc.\n"); break;
 		case 3202694: printf("Cedac Software S.r.l.\n"); break;
 		case 3204238: printf("Vodafone UK\n"); break;
@@ -13618,6 +13629,7 @@ void searchMac(unsigned long mac){
 		case 3207121: printf("Alstom Strongwish (Shenzhen) Co., Ltd.\n"); break;
 		case 3207994: printf("+plugg srl\n"); break;
 		case 3208973: printf("Cisco Systems\n"); break;
+		case 3209157: printf("Apple\n"); break;
 		case 3209709: printf("Sony Corporation\n"); break;
 		case 3210513: printf("MACROTECH (USA) INC.\n"); break;
 		case 3409915: printf("Ericsson AB\n"); break;
@@ -13705,6 +13717,7 @@ void searchMac(unsigned long mac){
 		case 3694531: printf("Yu Jeong System, Co.Ltd\n"); break;
 		case 3694711: printf("PEGATRON CORPORATION\n"); break;
 		case 3695606: printf("3NOD MULTIMEDIA(SHENZHEN)CO.,LTD\n"); break;
+		case 3696197: printf("OOSIC Technology CO.,Ltd\n"); break;
 		case 3697595: printf("Motorola Mobility, Inc.\n"); break;
 		case 3698209: printf("Wasion Group Ltd.\n"); break;
 		case 3699392: printf("COMTREND\n"); break;
@@ -13733,6 +13746,7 @@ void searchMac(unsigned long mac){
 		case 3730087: printf("Hewlett Packard\n"); break;
 		case 3730660: printf("Samsung Electronics\n"); break;
 		case 3731101: printf("Anedo Ltd.\n"); break;
+		case 3732887: printf("home2net GmbH\n"); break;
 		case 3733687: printf("V2COM PARTICIPACOES S.A.\n"); break;
 		case 3735237: printf("Ellips B.V.\n"); break;
 		case 3932849: printf("Creation Technologies LP\n"); break;
@@ -13821,6 +13835,7 @@ void searchMac(unsigned long mac){
 		case 4201817: printf("Biometric Associates, LP\n"); break;
 		case 4203245: printf("Digital Projection Ltd\n"); break;
 		case 4203970: printf("Intel Corporate\n"); break;
+		case 4204299: printf("Mobileeco Co., Ltd\n"); break;
 		case 4205473: printf("Sony Ericsson Mobile Communications AB\n"); break;
 		case 4205812: printf("Universal Global Scientific Industrial Co., Ltd.\n"); break;
 		case 4206596: printf("Apple, Inc.\n"); break;
@@ -13863,6 +13878,7 @@ void searchMac(unsigned long mac){
 		case 4237017: printf("Apple, Inc.\n"); break;
 		case 4238477: printf("Data Management, Inc.\n"); break;
 		case 4240072: printf("Nortel Networks\n"); break;
+		case 4240277: printf("Apple\n"); break;
 		case 4240380: printf("Logital Co. Limited\n"); break;
 		case 4240624: printf("Juniper Networks\n"); break;
 		case 4241395: printf("Motorola Mobility, Inc.\n"); break;
@@ -13885,6 +13901,7 @@ void searchMac(unsigned long mac){
 		case 4257004: printf("Cisco Systems\n"); break;
 		case 4257070: printf("Leica Microsystems (Schweiz) AG\n"); break;
 		case 4258953: printf("Motorola Mobility, Inc.\n"); break;
+		case 4457383: printf("Cisco\n"); break;
 		case 4459773: printf("NetMan Co., Ltd.\n"); break;
 		case 4461337: printf("WKK TECHNOLOGY LTD.\n"); break;
 		case 4464289: printf("Hewlett-Packard Company\n"); break;
@@ -13952,6 +13969,7 @@ void searchMac(unsigned long mac){
 		case 4516005: printf("Myreka Technologies Sdn. Bhd.\n"); break;
 		case 4517207: printf("Longicorn, inc.\n"); break;
 		case 4519001: printf("Samsung Electronics\n"); break;
+		case 4520770: printf("Apple\n"); break;
 		case 4719146: printf("B-Link Electronic Limited\n"); break;
 		case 4719458: printf("DESAY ELECTRONICS(HUIZHOU)CO.,LTD\n"); break;
 		case 4723273: printf("Luxcom Technologies Inc.\n"); break;
@@ -14224,6 +14242,7 @@ void searchMac(unsigned long mac){
 		case 5816882: printf("NEC Corporation\n"); break;
 		case 5817227: printf("Samsung Electronics\n"); break;
 		case 5820235: printf("Lufkin Industries\n"); break;
+		case 5820529: printf("BW Broadcast\n"); break;
 		case 5820559: printf("IEEE 1904.1 Working Group\n"); break;
 		case 5822163: printf("Dairy Cheq Inc\n"); break;
 		case 5823373: printf("Fast Co., Ltd.\n"); break;
@@ -14627,6 +14646,7 @@ void searchMac(unsigned long mac){
 		case 7369276: printf("Huawei Technologies Co., Ltd\n"); break;
 		case 7369423: printf("EdgeCore Networks\n"); break;
 		case 7369675: printf("Apple, Inc.\n"); break;
+		case 7370461: printf("Oxyguard International A/S\n"); break;
 		case 7370480: printf("LevelOne Communications (India) Private Limited\n"); break;
 		case 7371752: printf("HUAWEI TECHNOLOGIES CO.,LTD\n"); break;
 		case 7372355: printf("Motorola Mobility, Inc.\n"); break;
@@ -14676,6 +14696,7 @@ void searchMac(unsigned long mac){
 		case 7614312: printf("Azurewave Technologies, Inc.\n"); break;
 		case 7614832: printf("Arcadyan Technology Corporation\n"); break;
 		case 7615062: printf("NT-ware Systemprg GmbH\n"); break;
+		case 7616303: printf("Tongfang Shenzhen Cloudcomputing Technology Co.,Ltd\n"); break;
 		case 7616649: printf("ANNAX Anzeigesysteme GmbH\n"); break;
 		case 7619585: printf("NETGEAR\n"); break;
 		case 7619978: printf("Samsung Electronics Co.,Ltd\n"); break;
@@ -14925,6 +14946,7 @@ void searchMac(unsigned long mac){
 		case 8417567: printf("Juniper Networks\n"); break;
 		case 8418963: printf("Newag SA\n"); break;
 		case 8419967: printf("ABB Genway Xiamen Electrical Equipment CO., LTD\n"); break;
+		case 8420126: printf("Corsair Components\n"); break;
 		case 8420635: printf("Neosystem Co. Ltd.\n"); break;
 		case 8420835: printf("Chongqing Sichuan Instrument Microcircuit Co.LTD.\n"); break;
 		case 8421797: printf("TONGQING COMMUNICATION EQUIPMENT (SHENZHEN) Co.,Ltd\n"); break;
@@ -15033,6 +15055,7 @@ void searchMac(unsigned long mac){
 		case 8942934: printf("Cisco\n"); break;
 		case 8947360: printf("Simton Technologies, Ltd.\n"); break;
 		case 8947479: printf("CANON INC.\n"); break;
+		case 8947677: printf("DarbeeVision Inc.\n"); break;
 		case 8948573: printf("Storage Appliance Corporation\n"); break;
 		case 8948761: printf("Brady Corp Asia Pacific Ltd\n"); break;
 		case 8950237: printf("Racktivity\n"); break;
@@ -15042,6 +15065,7 @@ void searchMac(unsigned long mac){
 		case 8951775: printf("Entrypass Corporation Sdn. Bhd.\n"); break;
 		case 8951841: printf("TERAON\n"); break;
 		case 8953850: printf("Hon Hai Precision Ind. Co.,Ltd.\n"); break;
+		case 8954828: printf("Amatis Controls\n"); break;
 		case 8955325: printf("QPCOM INC.\n"); break;
 		case 8957121: printf("Generiton Co., Ltd.\n"); break;
 		case 8957469: printf("COMPAL INFORMATION(KUNSHAN)CO.,LTD\n"); break;
@@ -15062,6 +15086,7 @@ void searchMac(unsigned long mac){
 		case 8973596: printf("Cudo Communication Co., Ltd.\n"); break;
 		case 8974455: printf("Cisco Systems\n"); break;
 		case 8975496: printf("cellon communications technology(shenzhen)Co.,Ltd.\n"); break;
+		case 8975504: printf("Jetmobile Pte Ltd\n"); break;
 		case 8977685: printf("LINEEYE CO., LTD\n"); break;
 		case 9176319: printf("Technicolor USA Inc.\n"); break;
 		case 9178256: printf("Ruckus Wireless\n"); break;
@@ -15392,6 +15417,7 @@ void searchMac(unsigned long mac){
 		case 10275545: printf("Nokia Corporation\n"); break;
 		case 10276226: printf("CHENG UEI PRECISION INDUSTRY CO.,LTD\n"); break;
 		case 10277451: printf("zte corporation\n"); break;
+		case 10277741: printf("NETGEAR INC.,\n"); break;
 		case 10280707: printf("Harman/Becker Automotive Systems GmbH\n"); break;
 		case 10281230: printf("NCTech Ltd\n"); break;
 		case 10281430: printf("Junger Audio-Studiotechnik GmbH\n"); break;
@@ -15465,6 +15491,7 @@ void searchMac(unsigned long mac){
 		case 10542565: printf("SHARP CORPORATION\n"); break;
 		case 10542597: printf("JSC \"Irbis-T\"\n"); break;
 		case 10543617: printf("AVTrace Ltd.(China)\n"); break;
+		case 10543706: printf("Amicus SK, s.r.o.\n"); break;
 		case 10543765: printf("DAT System Co.,Ltd\n"); break;
 		case 10544436: printf("Stratec Biomedical AG\n"); break;
 		case 10545627: printf("Ningbo FreeWings Technologies Co.,Ltd\n"); break;
@@ -15628,6 +15655,7 @@ void searchMac(unsigned long mac){
 		case 11293166: printf("Cambridge Communication Systems Ltd\n"); break;
 		case 11293932: printf("IEEE P1823 Standards Working Group\n"); break;
 		case 11294779: printf("Human Assembler, Inc.\n"); break;
+		case 11296016: printf("Pace Americas\n"); break;
 		case 11296396: printf("Utillink\n"); break;
 		case 11297059: printf("Drivven, Inc.\n"); break;
 		case 11298566: printf("Ruckus Wireless\n"); break;
@@ -15786,6 +15814,7 @@ void searchMac(unsigned long mac){
 		case 11838691: printf("Cisco Systems\n"); break;
 		case 11838889: printf("MODI GmbH\n"); break;
 		case 11840077: printf("Ensequence, Inc.\n"); break;
+		case 11840300: printf("MtM Technology Corporation\n"); break;
 		case 11841559: printf("Avaya, Inc\n"); break;
 		case 11842402: printf("ZTE Corporation\n"); break;
 		case 11842863: printf("Hewlett Packard\n"); break;
@@ -15971,6 +16000,7 @@ void searchMac(unsigned long mac){
 		case 12599054: printf("NETGEAR\n"); break;
 		case 12599082: printf("Biscotti, Inc.\n"); break;
 		case 12599798: printf("LG Electronics Inc\n"); break;
+		case 12600547: printf("Shenzhen Sinkna Electronics Co., LTD\n"); break;
 		case 12601661: printf("MAITRISE TECHNOLOGIQUE\n"); break;
 		case 12605607: printf("Pico Systems Co., Ltd.\n"); break;
 		case 12607097: printf("SHENZHEN HUAXUN ARK TECHNOLOGIES CO.,LTD\n"); break;
@@ -15986,12 +16016,14 @@ void searchMac(unsigned long mac){
 		case 12620084: printf("ProCurve Networking by HP\n"); break;
 		case 12622994: printf("COBY\n"); break;
 		case 12623682: printf("Apple Inc\n"); break;
+		case 12624071: printf("FAIRFIELD INDUSTRIES\n"); break;
 		case 12624094: printf("Multi Touch Oy\n"); break;
 		case 12624098: printf("Eden Innovations\n"); break;
 		case 12624493: printf("Abbott Point of Care\n"); break;
 		case 12624740: printf("3D Systems Burlington\n"); break;
 		case 12626536: printf("OSASI Technos Inc.\n"); break;
 		case 12627028: printf("SAGEMCOM\n"); break;
+		case 12628793: printf("Comigo Ltd.\n"); break;
 		case 12628823: printf("Yoshiki Electronics Industry Ltd.\n"); break;
 		case 12630758: printf("Application Solutions (Safety and Security) Ltd\n"); break;
 		case 12631362: printf("ZPA Smart Energy a.s.\n"); break;
@@ -16136,6 +16168,7 @@ void searchMac(unsigned long mac){
 		case 13160798: printf("Huawei Technologies Co., Ltd\n"); break;
 		case 13160913: printf("AGAiT Technology Corporation\n"); break;
 		case 13161153: printf("Jetlun (Shenzhen) Corporation\n"); break;
+		case 13161379: printf("D-Link International\n"); break;
 		case 13161982: printf("Shenzhen Zowee Technology Co., Ltd\n"); break;
 		case 13162265: printf("Cisco Consumer Products, LLC\n"); break;
 		case 13164113: printf("Integra Networks, Inc.\n"); break;
@@ -16268,12 +16301,15 @@ void searchMac(unsigned long mac){
 		case 13685266: printf("K2NET Co.,Ltd.\n"); break;
 		case 13685382: printf("Beckman Coulter Biomedical K.K.\n"); break;
 		case 13685756: printf("Mios, Ltd.\n"); break;
+		case 13686476: printf("Wintop\n"); break;
 		case 13687602: printf("Nokia Corporation\n"); break;
 		case 13688730: printf("Liteon Technology Corporation\n"); break;
+		case 13688754: printf("Genie Networks Limited\n"); break;
 		case 13688775: printf("Samsung Electronics Co.,Ltd\n"); break;
 		case 13689671: printf("Yoga\n"); break;
 		case 13689867: printf("Wearable Inc.\n"); break;
 		case 13690189: printf("Pace plc\n"); break;
+		case 13690754: printf("Azurewave Technologies, Inc.\n"); break;
 		case 13691806: printf("Seowoo Inc.\n"); break;
 		case 13693147: printf("Ericsson\n"); break;
 		case 13694779: printf("Helmut Mauell GmbH\n"); break;
@@ -16347,6 +16383,7 @@ void searchMac(unsigned long mac){
 		case 13951788: printf("S. Siedle & Sohne\n"); break;
 		case 13951807: printf("Alcatel-Lucent\n"); break;
 		case 13953202: printf("Samsung Electronics\n"); break;
+		case 13953550: printf("Avaya, Inc\n"); break;
 		case 13954060: printf("Harley-Davidson Motor Company\n"); break;
 		case 13955111: printf("Navetas Energy Management\n"); break;
 		case 13955252: printf("Napco Security Technologies\n"); break;
@@ -16459,6 +16496,7 @@ void searchMac(unsigned long mac){
 		case 14463064: printf("Burkert Werke GmbH\n"); break;
 		case 14464196: printf("Microsoft XCG\n"); break;
 		case 14466960: printf("HUIZHOU QIAOXING TELECOMMUNICATION INDUSTRY CO.,LTD.\n"); break;
+		case 14467291: printf("Shenzhen Kaiboer Technology Co., Ltd.\n"); break;
 		case 14467329: printf("SOLiD Technologies, Inc.\n"); break;
 		case 14470056: printf("Explora Technologies Inc\n"); break;
 		case 14470721: printf("FE GLOBAL HONG KONG LIMITED\n"); break;
@@ -16596,6 +16634,8 @@ void searchMac(unsigned long mac){
 		case 14999749: printf("Samsung Electronics Co., LTD\n"); break;
 		case 15000585: printf("LEIFHEIT AG\n"); break;
 		case 15002640: printf("Nokia Corporation\n"); break;
+		case 15003389: printf("MR&D Manufacturing\n"); break;
+		case 15004517: printf("Time-O-Matic, Inc.\n"); break;
 		case 15006237: printf("PAD Peripheral Advanced Design Inc.\n"); break;
 		case 15007709: printf("ELECTRON INDIA\n"); break;
 		case 15205274: printf("Samsung Electronics Co.,LTD\n"); break;
@@ -16644,7 +16684,9 @@ void searchMac(unsigned long mac){
 		case 15243610: printf("PiiGAB, Processinformation i Goteborg AB\n"); break;
 		case 15243716: printf("HTC Corporation\n"); break;
 		case 15243919: printf("Quanta Computer Inc.\n"); break;
+		case 15244031: printf("Fujian Landi Commercial Equipment Co.,Ltd\n"); break;
 		case 15244679: printf("Toshiba\n"); break;
+		case 15246180: printf("Signal Path International / Peachtree Audio\n"); break;
 		case 15246529: printf("Deep Sea Electronics PLC\n"); break;
 		case 15248378: printf("Shenzhen Reecam Tech.Ltd.\n"); break;
 		case 15250606: printf("Shenzhen C&D Electronics Co.,Ltd\n"); break;
@@ -16918,6 +16960,7 @@ void searchMac(unsigned long mac){
 		case 16307113: printf("AXAN Networks\n"); break;
 		case 16307298: printf("Pumatronix Equipamentos Eletronicos Ltda.\n"); break;
 		case 16308054: printf("Simm Tronic Limited\n"); break;
+		case 16308159: printf("REV Ritter GmbH\n"); break;
 		case 16308962: printf("Beta LaserMike\n"); break;
 		case 16308980: printf("Taishan Online Technology Co., Ltd.\n"); break;
 		case 16309068: printf("PNY Technologies, INC.\n"); break;
