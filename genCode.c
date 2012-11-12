@@ -51,6 +51,7 @@ void write_macc(void){
     fprintf(wfp, "#include <stdio.h>\n");
     fprintf(wfp, "#include <stdlib.h>\n\n\n");
     fprintf(wfp, "void searchMac(unsigned long mac){\n");
+    fprintf(wfp, "\tprintf(\"Vendor: \");\n");
     fprintf(wfp, "\tswitch(mac){\n");
 
     premac = PREMAC_EXCEPT;
