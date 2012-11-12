@@ -7,7 +7,7 @@
 
 int main(int argc, char *argv[]){
 
-    if(argc != 1){
+    if(argc != 2){
         fprintf(stderr, "Ussage: %s <MAC Address>\n", argv[0]);
         exit(EXIT_FAILURE);
     }

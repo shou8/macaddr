@@ -3,6 +3,7 @@
 
 
 void searchMac(unsigned long mac){
+	printf("Vendor: ");
 	switch(mac){
 		case 0: printf("XEROX CORPORATION\n"); break;
 		case 1: printf("XEROX CORPORATION\n"); break;
