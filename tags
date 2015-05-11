@@ -18,8 +18,8 @@ MAC_H_INCLUDED	mac.h	/^#define MAC_H_INCLUDED$/;"	d
 MAC_OUI_RANGE	macutil.h	/^#define MAC_OUI_RANGE /;"	d
 MAX_LEN	genCode.c	/^#define MAX_LEN /;"	d	file:
 OBJS1	Makefile	/^OBJS1=macutil.o genCode.o$/;"	m
-OBJS2	Makefile	/^OBJS2=genCode$/;"	m
-OBJS3	Makefile	/^OBJS3=macutil.o mac.o macaddr.o$/;"	m
+OBJS2	Makefile	/^OBJS2=mac.o$/;"	m
+OBJS3	Makefile	/^OBJS3=macutil.o macaddr.o$/;"	m
 PREFIX	Makefile	/^PREFIX=\/opt\/bin$/;"	m
 PREMAC_EXCEPT	genCode.c	/^#define PREMAC_EXCEPT /;"	d	file:
 PWD	Makefile	/^PWD=$(shell pwd)$/;"	m
@@ -28,7 +28,6 @@ SRCS1	Makefile	/^SRCS1=$(OBJS1:%.o=%.c)$/;"	m
 SRCS2	Makefile	/^SRCS2=mac.c$/;"	m
 SRCS3	Makefile	/^SRCS3=$(OBJS3:%.o=%.c)$/;"	m
 TARGET1	Makefile	/^TARGET1=genCode$/;"	m
-TARGET2	Makefile	/^TARGET2=mac$/;"	m
 TARGET3	Makefile	/^TARGET3=macaddr$/;"	m
 WRITE_C	genCode.c	/^#define WRITE_C /;"	d	file:
 WRITE_H	genCode.c	/^#define WRITE_H /;"	d	file:
