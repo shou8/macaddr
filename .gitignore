@@ -1,3 +1,6 @@
 *.o
 genCode
 macaddr
+mac.c
+mac.db
+oui.txt

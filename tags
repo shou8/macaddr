@@ -1,0 +1,42 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+ASCII_ALP_TO_HEX	macutil.h	/^#define ASCII_ALP_TO_HEX /;"	d
+ASCII_RANGE_ALP_HIGHER	macutil.h	/^#define ASCII_RANGE_ALP_HIGHER /;"	d
+ASCII_RANGE_ALP_LOWER	macutil.h	/^#define ASCII_RANGE_ALP_LOWER /;"	d
+ASCII_RANGE_NUM_HIGHER	macutil.h	/^#define ASCII_RANGE_NUM_HIGHER /;"	d
+ASCII_RANGE_NUM_LOWER	macutil.h	/^#define ASCII_RANGE_NUM_LOWER /;"	d
+CC	Makefile	/^CC=gcc$/;"	m
+CFLAGS	Makefile	/^CFLAGS=-Wall -O2$/;"	m
+HEX_SHIFT	macutil.h	/^#define HEX_SHIFT /;"	d
+LDLIBS	Makefile	/^LDLIBS=$/;"	m
+MACUTIL_H_INCLUDED	macutil.h	/^#define MACUTIL_H_INCLUDED$/;"	d
+MAC_H_INCLUDED	mac.h	/^#define MAC_H_INCLUDED$/;"	d
+MAC_OUI_RANGE	macutil.h	/^#define MAC_OUI_RANGE /;"	d
+MAX_LEN	genCode.c	/^#define MAX_LEN /;"	d	file:
+OBJS1	Makefile	/^OBJS1=macutil.o genCode.o$/;"	m
+OBJS2	Makefile	/^OBJS2=genCode$/;"	m
+OBJS3	Makefile	/^OBJS3=macutil.o mac.o macaddr.o$/;"	m
+PREFIX	Makefile	/^PREFIX=\/opt\/bin$/;"	m
+PREMAC_EXCEPT	genCode.c	/^#define PREMAC_EXCEPT /;"	d	file:
+PWD	Makefile	/^PWD=$(shell pwd)$/;"	m
+READ_DB	genCode.c	/^#define READ_DB /;"	d	file:
+SRCS1	Makefile	/^SRCS1=$(OBJS1:%.o=%.c)$/;"	m
+SRCS2	Makefile	/^SRCS2=mac.c$/;"	m
+SRCS3	Makefile	/^SRCS3=$(OBJS3:%.o=%.c)$/;"	m
+TARGET1	Makefile	/^TARGET1=genCode$/;"	m
+TARGET2	Makefile	/^TARGET2=mac$/;"	m
+TARGET3	Makefile	/^TARGET3=macaddr$/;"	m
+WRITE_C	genCode.c	/^#define WRITE_C /;"	d	file:
+WRITE_H	genCode.c	/^#define WRITE_H /;"	d	file:
+hton	macutil.c	/^char hton(char c){$/;"	f
+macCmp	macutil.c	/^unsigned long macCmp(unsigned long *mac1, unsigned long *mac2){$/;"	f
+macton	macutil.c	/^unsigned long macton(char macs[]){$/;"	f
+main	genCode.c	/^int main(int argc, char *argv[]){$/;"	f
+main	macaddr.c	/^int main(int argc, char *argv[]){$/;"	f
+searchMac	mac.c	/^void searchMac(unsigned long mac){$/;"	f
+write_macc	genCode.c	/^void write_macc(void){$/;"	f
+write_mach	genCode.c	/^void write_mach(void){$/;"	f

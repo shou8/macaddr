@@ -87,7 +87,7 @@ void write_macc(void){
         premac = mac;
     }
 
-    fprintf(wfp, "\n\t\tdefault: printf(\"Unknown.\\n\");\n");
+    fprintf(wfp, "break;\n\t\tdefault: printf(\"Unknown.\\n\");\n");
     fprintf(wfp, "\t}\n");
     fprintf(wfp, "\treturn;\n");
     fprintf(wfp, "}\n");
