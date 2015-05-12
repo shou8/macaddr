@@ -18,7 +18,7 @@ TARGET3=macaddr
 
 
 
-.PHONY: all db clean
+.PHONY: all db install clean
 
 all: db $(TARGET1) $(TARGET3)
 
