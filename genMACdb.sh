@@ -1,4 +1,4 @@
 #!/bin/bash
 
-grep '(base 16)' oui.txt | sed -e 's/     (base 16)\t\t/ /g' | sed -e 's/"/\\"/g' > mac.db
+grep '(hex)' oui.txt | sed -e 's/(hex)/ /g; s/"/\\"/g' | sed -e "s/^[	 ]*\([0-9a-fA-F]\{2\}\)-\([0-9a-fA-F]\{2\}\)-\([0-9a-fA-F]\{2\}\)[	 ]*\([^	 ].*\)$/\1\2\3 \4/" > mac.db
 nkf -w --overwrite mac.db
