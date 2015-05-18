@@ -18,9 +18,9 @@ TARGET3=macaddr
 
 
 
-.PHONY: all db install clean
+.PHONY: all install clean
 
-all: db $(TARGET1) $(TARGET3)
+all: $(TARGET1) $(TARGET3)
 
 oui.txt:
 	wget http://standards.ieee.org/develop/regauth/oui/oui.txt
